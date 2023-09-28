@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['54.84.203.62']
 
-
+#esta es una aplicacion en django
 # Application definition
 
 INSTALLED_APPS = [
